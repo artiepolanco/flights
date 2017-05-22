@@ -10,4 +10,4 @@ The original can be seen [here](https://s3.amazonaws.com/f.cl.ly/items/1Q471c1T0
 
 ### Installation 
 
- No installation required. Just click [here](https://fast-hollows-54235.herokuapp.com/) to view my version.
+ No installation required. Just click [here](https://fast-hollows-54235.herokuapp.com/) to view my version of the mockup on Heroku. 
